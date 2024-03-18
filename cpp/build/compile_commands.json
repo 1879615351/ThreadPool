@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/yansu/workspace/ThreadPool/cpp/build",
+  "command": "/usr/bin/g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/thread_pool.dir/main.cpp.o -c /home/yansu/workspace/ThreadPool/cpp/main.cpp",
+  "file": "/home/yansu/workspace/ThreadPool/cpp/main.cpp",
+  "output": "CMakeFiles/thread_pool.dir/main.cpp.o"
+}
+]
